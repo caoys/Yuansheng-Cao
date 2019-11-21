@@ -1,4 +1,5 @@
 ## Welcome to the website of Yuansheng Cao
+I am currently a post-doctoral researcher at UC San Diego, where I apply physics techniques to a wide range of cell biology problems, including single- and multi-cell migration. I joined UC San Diego after completing a PhD in physics at Peking University (PKU), where I used nonequilibrium thermodynamics to study biological networks.
 
 ## Personal information
 email: caoys1988@gmail.com
@@ -8,7 +9,7 @@ Education: Ph.D., Biophysics and Condensed Matter Physics, 2016, Peking Universi
 CV [Find here](cv_ys_noref.pdf) 
 
 ## Research Interests and Experiences
-I am interested in theoretical and computational approaches to understand the **dynamics** and **thermodynamics** of complex spatiotemporal behaviors in cell and developmental biology at a broad range of scales. I am currently a post-doctoral researcher at UC San Diego, where I apply physics techniques to a wide range of cell biology problems, including single- and multi-cell migration. I joined UC San Diego after completing a PhD in physics at Peking University (PKU), where I used nonequilibrium thermodynamics to study biological networks.
+I am interested in theoretical and computational approaches to understand the **dynamics** and **thermodynamics** of complex spatiotemporal behaviors in cell and developmental biology at a broad range of scales. 
 
 **Mechanochemical coupling to build connection between morphology and funtionality in biology**
 
