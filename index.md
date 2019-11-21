@@ -9,9 +9,11 @@ CV [Find here](cv_ys_noref.pdf)
 I am interested in theoretical and computational approaches to understand the **dynamics** and **thermodynamics** of complex spatiotemporal behaviors in cell and developmental biology at a broad range of scales. I am currently a post-doctoral researcher at UC San Diego, where I apply physics techniques to a wide range of cell biology problems, including single- and multi-cell migration. I joined UC San Diego after completing a PhD in physics at Peking University (PKU), where I used nonequilibrium thermodynamics to study biological networks.
 
 **The connection between morphology and funtionality in biology**
+
 In cell and developmental biology
 
 **Nonequilibrium thermodyanmics as unified framework to understand living systems**
+
 A general theoretical framework
 
 ## Publications
