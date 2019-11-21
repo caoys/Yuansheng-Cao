@@ -1,6 +1,8 @@
 ## Personal information
 email: caoys1988@gmail.com
+
 Education: Ph.D., Biophysics and Condensed Matter Physics, 2016, Peking University, China
+
 CV [Find here](cv_ys_noref.pdf) 
 
 ## Research Interests and Experiences
