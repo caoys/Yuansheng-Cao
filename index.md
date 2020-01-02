@@ -29,8 +29,8 @@ A general theoretical framework
 
 **Mechanochemical coupling in cell migration and biological pattern formation**
 1. [Plasticity of cell migration resulting from mechanochemical coupling](https://elifesciences.org/articles/48478), _eLife_ 2019 
-2. [Flower-like patterns in multi- species bacterial colonies](https://www.biorxiv.org/content/10.1101/550996v2), accepted at _eLife_ 2019, preprints 
-3. A minimal computational model for three dimensional cell migration, accepted at _J. R. Soc. Interface_, 2019
+2. [Flower-like patterns in multi- species bacterial colonies](https://www.biorxiv.org/content/10.1101/550996v2), accepted at _eLife_ 2019,
+3. [A minimal computational model for three dimensional cell migration](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0619), _J. R. Soc. Interface_, 2019
 4. Orthogonal physical and chemical cues steer migrating border cells in vivo, (in collaboration with D. Montell group) _under review_, 
 5. [Cell motility dependence on adhesive wetting](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c8sm01832d#!divAbstract), _Soft Matter_, 2019 
 
