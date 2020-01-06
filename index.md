@@ -11,11 +11,13 @@ Education: Ph.D., Biophysics and Condensed Matter Physics, 2016, Peking Universi
 CV [Find here](cv_ys_noref.pdf) 
 
 ## Research Interests and Experiences
-I am interested in theoretical and computational approaches to understand the **dynamics** and **thermodynamics** of complex spatiotemporal behaviors in cell and developmental biology at a broad range of scales. 
+I am interested the **dynamics** and **thermodynamics** of complex spatiotemporal behaviors in biology at a broad range of scales using physical and mathematical principles. 
 
-**Mechanochemical coupling to build connection between morphology and funtionality in biology**
+**Mechanochemical coupling in cell and developmental biology**
 
-In cell and developmental biology
+In cell biology, a major challenge to understand cell behaviors and migration is that cellular signaling events are coupled with cellular mechanics. Things are even complicated _in vivo_ because cells are encountered with multiple physical and chemical signals. I want to build an _in silico_ cell (computation models) to study the feedback between cellular signaling and cell mechanics. I believe the core pathway is the Ras-PIP3 signaling pathway, which is highly conserved in most eukaryotic cells. This model can then be coupled to complex environments. I wish to understand the strategy of polarity establishement and path selection of cell movements when both physical and chemical cues are present. The ultimate target is cancer metastasis, where it has been shown that gene expression, cellular signaling and extra-cellular matrixes are all important factors to initiate the migration of cancer cells. 
+
+In developmental biology, we are facing similar challenges. The morphogenesis processes in many systems are entangled with gene expression, inter-cellular signaling and tissue mechanics. I want to use an integrative perspective to include all the factors listed above to study the highly coordinated processes in development. One example is the formation of somite patterns in vertebrate animals. The somite patterns are controlled by a set of cellular oscillations and traveling waves. I want to find the fundamental limit of controlling timing and position of pattern formations in such a circumstance. This study can help us understand how the system is optimized and compared with quantitative data. Another challenge in morphogenesis is that it involves cell growth/division, tissue shape/geometry/mechanics and cell movements. I want to use computational models to study the coordination between those factors.  
 
 **Nonequilibrium thermodyanmics as unified framework to understand living systems**
 
