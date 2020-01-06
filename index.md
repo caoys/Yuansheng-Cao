@@ -11,7 +11,7 @@ Education: Ph.D., Biophysics and Condensed Matter Physics, 2016, Peking Universi
 CV [Find here](cv_ys_noref.pdf) 
 
 ## Research Interests and Experiences
-I am interested the **dynamics** and **thermodynamics** of complex spatiotemporal behaviors in biology at a broad range of scales using physical and mathematical principles. 
+Long term goal: to understand the complex spatiotemporal dynamics in biology using physical and mathematical principles. 
 
 **Mechanochemical coupling in cell and developmental biology**
 
