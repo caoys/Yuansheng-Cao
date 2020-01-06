@@ -25,7 +25,7 @@ Open to all possibilities.
 
 This is about physical constraint to biology, but it also brings new opportunities from biology to physics, perhaps even establish new physics. One powerful law is the nonequilibrium thermodynamics and statistics, because all living systems are out of equlibrium, i.e., they consume ATP or GTP to stay funtional. One example from my research experience is that, the precision and sensitivity of biochemial oscillations and circadian clocks, are constrained by the energy dissipation of the clock. I want to extend my work and use nonequilibrium thermodynamics as a unified framework to understand information processing and self-organization in biology. For example, cells use GPCRs which consumes GTP to sense shallow concentration gradient, I want to know how GTP consumption affect the sensitivity of gradient sensing, by using theoretical models. Self-organizations are also active processes which consume free energy. One example is the super-enhancers in transcription through a so-called "phase-separation" mechanism. I'm interested in the role of energetics in such a mechanism and want to know how it leads to super-sensitivity.  Another example is pattern formation in biology which is also nonequilibrium.  I'm interested in how energetic molecules are distributed spatiotemporally to make accurate patterns. These studies can help reveal the principles of utilizing free energy to achieve accuracy in noisy living systems.
 
-All those studies are closely connected to experiments.
+All those studies will converge to experiments.
 
 ## Publications
 **Nonequilibrium thermodyanmics of noisy oscillators**
