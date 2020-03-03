@@ -13,7 +13,13 @@ CV [Find here](cv_ys_noref.pdf)
 ## Research Interests and Experiences
 Long term goal: to understand the complex spatiotemporal dynamics in biology using physical and mathematical principles. 
 
+1. The plasticity and differentiation of eukaryotic cell migration
+
+2. Nonequilibrium physics of active processes in living systems
+
+
 From _the 2019 motile active matter roadmap_
+
 "Activity and autonomous motion are fundamental in living and engineering systems. This has stimulated the new field of active matter in recent years, which focuses on the physical aspects of propulsion mechanisms, and on motility-induced emergent collective behavior of a larger number of identical agents. The scale of agents ranges from nanomotors and microswimmers, to cells, fish, birds, and people. Inspired by biological microswimmers, various designs of autonomous synthetic nano- and micromachines have been proposed. Such machines provide the basis for multifunctional, highly responsive, intelligent (artificial) active materials, which exhibit emergent behavior and the ability to perform tasks in response to external stimuli. A major challenge for understanding and designing active matter is their inherent nonequilibrium nature due to persistent energy consumption, which invalidates equilibrium concepts such as free energy, detailed balance, and time-reversal symmetry. Unraveling, predicting, and controlling the behavior of active matter is a truly interdisciplinary endeavor at the interface of biology, chemistry, ecology, engineering, mathematics, and physics. The vast complexity of phenomena and mechanisms involved in the self-organization and dynamics of motile active matter comprises a major challenge. Hence, to advance, and eventually reach a comprehensive understanding, this important research area requires a concerted, synergetic approach of the various disciplines."
 
 ## Publications
@@ -24,7 +30,7 @@ From _the 2019 motile active matter roadmap_
 
 **Mechanochemical coupling in cell migration and biological pattern formation**
 1. [Plasticity of cell migration resulting from mechanochemical coupling](https://elifesciences.org/articles/48478), _eLife_ 2019 
-2. [Flower-like patterns in multi- species bacterial colonies](https://www.biorxiv.org/content/10.1101/550996v2), accepted at _eLife_ 2019,
+2. [Flower-like patterns in multi- species bacterial colonies](https://www.biorxiv.org/content/10.1101/550996v2),  _eLife_ 2020,
 3. [A minimal computational model for three dimensional cell migration](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0619), _J. R. Soc. Interface_, 2019
 4. Orthogonal physical and chemical cues steer migrating border cells in vivo, (in collaboration with D. Montell group) _under review_, 
 5. [Cell motility dependence on adhesive wetting](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c8sm01832d#!divAbstract), _Soft Matter_, 2019 
